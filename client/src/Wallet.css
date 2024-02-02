@@ -1,0 +1,11 @@
+.Valid
+{
+    color:#61d389 !important;
+    border: 2px solid #61d389 !important;
+
+}
+.UnValid
+{
+    border: 2px solid #e85c39 !important;
+    color: #f6552d !important;
+}
